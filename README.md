@@ -24,13 +24,18 @@
 
 # About Me
 
-- 👋 Hi, I’m Sebastian
-- I am a Full Stack Dev in the making. Just started as a Trainee in a 3 year program with a big Tech Company.
-- 👀 I’m interested in Coding, Gaming, Travel and Adventures
-- 🌱 I’m currently learning Typescript, React, Kotlin
-- 
-- 💞️ I’m looking to collaborate on ... Not yet.
-- 📫 How to reach me ... Not yet.
+- 🌟 Greetings, brave adventurer! 🏰 Shall we embark on a new quest through the coding realms?
+
+- 💻 I'm Basti, navigating a 3-year coding labyrinth with a major tech company in Germany, aspiring to be the Indiana Jones of Full Stack Devs — no whips, just debugging adventures! 🕵️‍♂️✨
+
+- 🎮 When I'm not typing away, you'll find me exploring virtual realms in gaming, dreaming of my next travel adventure, and seeking out real-life quests.
+
+- 🌱 Progressing through a coding RPG, strategically amassing XP in TypeScript, Kotlin, and Python. The side quest involves mastering Godot for game development, with the overarching aim to level up my coding proficiency and finally start binary conversations with my laptop. 🏹🚀
+
+- 💞️ Open for coding collaborations and on the lookout for new companions. Currently in the process of deciding the coding superhero I want to become. Follow along as I search for the ultimate coding sidekick! 🦸‍♂️🔍
+
+- 📫 Want to chat or share a coding secret? Reach out! Although, I must warn you, my emoji game is strong. 🚀
+
 
 
 # Technologies
