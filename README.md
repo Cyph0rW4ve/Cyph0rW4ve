@@ -4,7 +4,7 @@
 ![alt Future City](.//futureCity.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/CaptainKorsika)&nbsp;&nbsp;
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-18-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-20-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 [![CodeWars](https://www.codewars.com/users/CaptainKorsika/badges/micro?style=flat)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
 
 <!---
