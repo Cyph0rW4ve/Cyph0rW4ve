@@ -8,7 +8,6 @@
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-20-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F6FEB&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
 
 
@@ -29,11 +28,12 @@
 &nbsp;
 # REACH OUT
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white.png)
 ![Rediit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
+[Links will follow shortly]
 
 <!--- Linking Pages to the Icons of Social --->
 
