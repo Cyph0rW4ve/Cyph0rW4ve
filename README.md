@@ -79,10 +79,6 @@
 <!--- Streak, Stats. Most Used Languages, Awards --->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CaptainKorsika&theme=shadow-purple&border_radius=5&mode=weekly&hide_border=true&currStreakNum=61c4c6&fire=e13cba&sideNums=61c4c6&currStreakLabel=e13cba&sideLabels=e13cba&dates=61c4c6)&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-nu-ten-19.vercel.app/api/top-langs/?username=CaptainKorsika&layout=compact&hide_border=true&bg_color=00000000&text_color=61c4c6&title_color=e13cba&icon_color=000000)
+![Top Langs](https://github-readme-stats-nu-ten-19.vercel.app/api/top-langs/?username=CaptainKorsika&layout=compact&hide_border=true&bg_color=00000000&text_color=61c4c6&title_color=e13cba&icon_color=000000&exclude_repo=github-readme-streak-stats)
 
 ![Sebastian's GitHub stats](https://github-readme-stats-nu-ten-19.vercel.app/api?username=CaptainKorsika&hide_title=true&title_color=570182&bg_color=81018200&icon_color=e13cba&theme=radical&border_color=57018200&text_color=61c4c6&show_icons=true&theme=radical)
-
-
-
-<!---[![New GitHub Streak](https://github-readme-streak-stats-git-main-captainkorsikas-projects.vercel.app?user=CaptainKorsika)](https://git.io/streak-stats) --->
