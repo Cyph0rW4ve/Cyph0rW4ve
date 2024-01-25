@@ -1,5 +1,7 @@
 
-# <span style="color:#800080; font-weight: bold">Hey, I am Sebastian 🙂💻</span>
+![Alt Text](./src/ReadmeImages/Sebastian.png)
+---
+
 
 ![alt Future City](.//futureCity.png)
 
@@ -11,7 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61c4c6&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
 
 
-# <span style="color:#800080; font-weight: bold">ABOUT ME</span>
+![Alt Text](./src/ReadmeImages/AboutMe.png)
+---
 
 - 🌟 Greetings, brave adventurer! 🏰 Shall we embark on a new quest through the coding realms?
 
@@ -26,7 +29,9 @@
 - 📫 Want to chat or share a coding secret? Reach out! Although, I must warn you, my emoji game is strong. 🚀  
 
 &nbsp;
-# <span style="color:#800080; font-weight: bold">REACH OUT</span>
+
+![Alt Text](./src/ReadmeImages/ReachOut.png)
+---
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c3v8qXvcxN)
@@ -35,9 +40,14 @@
 <!--- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  --->
 
 &nbsp;
-# <span style="color:#800080; font-weight: bold">TECHNOLOGIES</span>
 
-### <span style="color:#61c4c6; font-weight: bold">MY SKILLS:</span>
+![Alt Text](./src/ReadmeImages/Technologies.png)
+---
+
+&nbsp;
+
+![Alt Text](./src/ReadmeImages/MySkills.png)
+
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -51,19 +61,26 @@
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 &nbsp;
-### <span style="color:#61c4c6; font-weight: bold">CURRENTLY WORKING WITH:</span>
+
+
+![Alt Text](./src/ReadmeImages/CurrentWork.png)
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=mediumseagreen)](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 
 &nbsp;
-### <span style="color:#61c4c6; font-weight: bold">LEARNING:</span>
+
+![Alt Text](./src/ReadmeImages/Learning.png)
+
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=mediumseagreen)](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
 
 &nbsp;
-### <span style="color:#61c4c6; font-weight: bold">UPCOMING:</span>
+
+![Alt Text](./src/ReadmeImages/Upcoming.png)
+
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://doc.rust-lang.org/beta/)
@@ -74,7 +91,9 @@
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
 
 &nbsp;
-# <span style="color:#800080; font-weight: bold">ACTIVITY</span>
+
+![Alt Text](./src/ReadmeImages/Activity.png)
+---
 
 <!--- Streak, Stats. Most Used Languages, Awards --->
 
