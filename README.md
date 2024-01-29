@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-32-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-34-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61c4c6&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
@@ -16,15 +16,15 @@
 ![Alt Text](./src/ReadmeImages/AboutMe.png)
 ---
 
-- 🌟 Greetings, brave adventurer! 🏰 Shall we embark on a new quest through the coding realms?
+- 🌟 Greetings, brave adventurer! 🏰  Ready to embark on a coding journey?
 
-- 💻 I'm Basti, navigating a 3-year coding labyrinth with a major tech company in Germany, aspiring to be the Indiana Jones of Full Stack Devs — no whips, just debugging adventures! 🕵️‍♂️✨
+- 💻 I'm Basti, navigating the coding dungeons during a 3-year training program at a major tech company in Germany. On this quest to transform into a Full Stack Developer, I tackle coding adventures, confronting challenges as if they were epic boss battles! 🚀🕵️‍♂️✨
 
-- 🎮 When I'm not typing away, you'll find me exploring virtual realms in gaming, dreaming of my next travel adventure, and seeking out real-life quests.
+- 🎮 Beyond coding, I explore virtual realms within video games, dream about future travel destinations, or savor life by seeking adrenaline rushes and exploring nature.
 
-- 🌱 Progressing through a coding RPG, strategically amassing XP in TypeScript, Kotlin, and Python. The side quest involves mastering Godot for game development, with the overarching aim to level up my coding proficiency and finally start binary conversations with my laptop. 🏹🚀
+- 🌱 Progressing through a coding RPG, strategically earning XP in front- and backend development. The side quest involves mastering Godot for game creation, with the ultimate goal of boosting my coding proficiency and finally understanding the secret language of rubber ducks. 🦆🚀
 
-- 💞️ Open for coding collaborations and on the lookout for new companions. Currently in the process of deciding the coding superhero I want to become. Follow along as I search for the ultimate coding sidekick! 🦸‍♂️🔍
+- 💞️ Open for coding collaborations and on the lookout for new companions. Actively seeking Open Source projects to contribute to, I'm currently in the process of deciding the coding superhero I want to become. Follow along as I search for the ultimate coding sidekick! 🦸‍♂️🔍
 
 - 📫 Want to chat or share a coding secret? Reach out! Although, I must warn you, my emoji game is strong. 🚀  
 
@@ -74,8 +74,8 @@
 ![Alt Text](./src/ReadmeImages/Learning.png)
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
-[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=mediumseagreen)](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
+[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 
 &nbsp;
 
