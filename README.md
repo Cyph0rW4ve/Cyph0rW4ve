@@ -1,5 +1,5 @@
 
-![Alt Text](./src/ReadmeImages/Sebastian.png)
+![Hi](./src/ReadmeImages/Sebastian.png)
 ---
 
 
@@ -7,13 +7,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-36-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-38-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61c4c6&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
 
 
-![Alt Text](./src/ReadmeImages/AboutMe.png)
+![About Me](./src/ReadmeImages/AboutMe.png)
 ---
 
 - 🌟 Greetings, brave adventurer! 🏰  Ready to embark on a coding journey?
@@ -30,7 +30,7 @@
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/ReachOut.png)
+![Reach Out](./src/ReadmeImages/ReachOut.png)
 ---
 
 
@@ -41,12 +41,12 @@
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/Technologies.png)
+![Technologies](./src/ReadmeImages/Technologies.png)
 ---
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/MySkills.png)
+![My Skills](./src/ReadmeImages/MySkills.png)
 
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -63,23 +63,23 @@
 &nbsp;
 
 
-![Alt Text](./src/ReadmeImages/CurrentWork.png)
+![Currently Working With](./src/ReadmeImages/CurrentWork.png)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=mediumseagreen)](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/Learning.png)
+![Learning](./src/ReadmeImages/Learning.png)
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=mediumseagreen)](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/Upcoming.png)
+![Upcoming](./src/ReadmeImages/Upcoming.png)
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
@@ -92,7 +92,7 @@
 
 &nbsp;
 
-![Alt Text](./src/ReadmeImages/Activity.png)
+![Activity](./src/ReadmeImages/Activity.png)
 ---
 
 <!--- Streak, Stats. Most Used Languages, Awards --->
