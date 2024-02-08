@@ -3,7 +3,7 @@
 ---
 
 
-![alt Future City](.//futureCity.png)
+![alt Future City](./src/ReadmeImages/futureCity.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
