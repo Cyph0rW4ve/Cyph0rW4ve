@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-54-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-56-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61c4c6&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
@@ -76,6 +76,7 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
 
 &nbsp;
 
@@ -88,7 +89,7 @@
 [![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/)
 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html)
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+
 
 &nbsp;
 
