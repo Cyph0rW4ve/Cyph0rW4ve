@@ -1,24 +1,20 @@
----
-layout: default
-categories: jekyll update
----
 # My Portfolio
 
 <p style="color: red;">This is a paragraph with red text.</p>
 
 ## About Me
-In 2022 I started learning to code. 
+In 2022 I started learning to code with JavaScript and built a few simple websites. Later I dove into Java, Kotlin and Python and started an apprenticeship at a big company in late 2023. I am in a 3 year program to be developed into a Full Stack developer by 2026.
 
 ## Experience
-### [Company Name]
-- Position: [Your Position]
-- Duration: [Start Date] - [End Date]
-- Description: [Brief description of your responsibilities and achievements]
+### [Otto]
+- Position: [TRAINEE]
+- Duration: [2023] - [PRESENT]
+- Description: [Learning the basics of Python, Java, AWS, Google Cloud, Kotlin, TypeScript, Terraform and various Frameworks ans Services]
 
 ### [Company Name]
-- Position: [Your Position]
-- Duration: [Start Date] - [End Date]
-- Description: [Brief description of your responsibilities and achievements]
+- Position: [Student]
+- Duration: [2022] - [2023]
+- Description: [Teach myself how to code]
 
 ## Projects
 1. **Project 1**
