@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-56-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-58-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61c4c6&background=FFFFFF00&vCenter=false&random=false&width=435&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;GAMER)](https://git.io/typing-svg)
