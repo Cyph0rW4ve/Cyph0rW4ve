@@ -1,25 +1,62 @@
-body {
-    height: 100%;
-    background: linear-gradient(to bottom, rgb(53, 53, 148), rgb(14, 14, 53) ) ;
+body, html {
     margin: 0;
-}
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    height: 100%;
+    background-color: darkblue;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200%;
+    position: relative;
+  }
+  
+  .columns-container {
+    width: 55%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 100%;
+    position: relative;
+  }
+  
+  .left-column {
+    width: calc(100%); /* One third of parent's width */
+    padding: 0px;
+    background-color: #f2f2f200;
+    position: sticky;
+    top: 0;
+    height: 100vh; /* Ensuring the left column takes full height */
+  }
+  
+  
+  
+  .right-column {
+    padding: 0px 20px;
+    background-color: #e6e6e600;
 
-
-.container {
-    height: 100vh;
-    width: 60%;
-    margin: 0 auto;
-}
-
-.static-column {
-    background-color: lightgray;
-    position: fixed;
-    width: 20%;
-}
-
-.scrollable-column {
-    height: 200vh;
-    width: 40%;
-    margin-left: 40vh;
-    background-color: white; /* Scrollable column background color */
-}
+    overflow-y: auto; /* Enable vertical scrollbar */
+    width: calc(100%);
+    top: 0;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  /* Responsive layout */
+  @media only screen and (max-width: 768px) {
+    .container {
+      align-items: flex-start;
+    }
+    .columns-container {
+      flex-direction: column;
+    }
+    .left-column, .right-column {
+      width: 100%;
+    }
+  }
+  
