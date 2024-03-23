@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@300;400;700&display=swap" rel="stylesheet">
+  <script src="functions.js"></script>
 </head>
 <body>
   <div class="container">
@@ -17,30 +18,40 @@
         <p>In 2022 I started learning to code with JavaScript and built a few simple websites. Later I dove into Java, Kotlin and Python and started an apprenticeship at a big company in mid 2023. I am in a 3 year program to be developed into a Full Stack developer by 2026.</p>
         <h2>Blog</h2>
         <h3>Recent Posts</h3>
-            <ul>
-                <li>Placeholder 1</li>
-                <li>Placeholder 2</li>
-                <li>Placeholder 3</li>
-            </ul>
+          <ul>
+              <li>Coming Soon...</li>
+
+          </ul>
+          <ul class="social-list">
+            <li><img src="" alt="Github"></li>
+            <li><img src="" alt="Discord"></li>
+            <li><img src="" alt="Reddit"></li>
+            <li><img src="" alt="Insta"></li>
+            <li><img src="" alt="LinkedIn"></li>
+          </ul>
       </div>
       <div class="right-column">
         <h1 id="right-heading">Projects</h1>
-        <div class="project">
-          <h2>Password Generator</h2>
-          <p>Description of Project 1</p>
+        <div class="project" onclick="changeSite('./sites/sudokusolver.html')">
+          <h2>Sudoku Solver</h2>
+          <p>Description of Project 2</p>
+          <div class="tech-container">
+            <button class="tech-label">Python</button>
+          </div>
         </div>
-        <div class="project">
+        <div class="project" onclick="changeSite('./sites/tamagochi.html')">
           <h2>Tamagochi</h2>
           <p>Description of Project 2</p>
         </div>
-        <div class="project">
-          <h2>Sudoku Solver</h2>
-          <p>Description of Project 2</p>
+        <div class="project" onclick="changeSite('./sites/password_generator.html')">
+          <h2>Password Generator</h2>
+          <p>Description of Project 1</p>
         </div>
         <a id="project-link" href="./sites/projects.html">See All projects</a>
-        <!-- More projects can be added here -->
       </div>
     </div>
   </div>
 </body>
 </html>
+
+
