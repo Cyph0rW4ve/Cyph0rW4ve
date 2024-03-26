@@ -8,46 +8,69 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@300;400;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/1e59efb197.js" crossorigin="anonymous"></script>
   <script src="functions.js"></script>
 </head>
 <body>
   <div class="container">
     <div class="columns-container">
       <div class="left-column">
-        <h1 id="left-heading">About Me</h1>
-        <p>In 2022 I started learning to code with JavaScript and built a few simple websites. Later I dove into Java, Kotlin and Python and started an apprenticeship at a big company in mid 2023. I am in a 3 year program to be developed into a Full Stack developer by 2026.</p>
-        <h2>Blog</h2>
-        <h3>Recent Posts</h3>
+        <div class="left-main">
+          <h1 id="left-heading">About Me</h1>
+          <p>Hey there! I'm diving into the world of coding since 2022, starting with JavaScript and crafting a few simple websites. From there, 
+            I've been exploring Java, Kotlin, and Python. In mid-2023, I snagged an apprenticeship at a big company, 
+            embarking on a three-year journey to become a Full Stack developer by 2026. <br><br> When I'm not coding, you'll likely find me strumming my guitar or soaking up nature's beauty on a hike or bike ride. I'm a big fan of festivals and concerts, and I always try to squeeze in a gaming session or two between everything else.</p>
+          <h2>Blog</h2>
+          <h3>Recent Posts</h3>
           <ul>
               <li>Coming Soon...</li>
-
+  
           </ul>
+        </div>
+        <div class="left-footer">
           <ul class="social-list">
-            <li><img src="" alt="Github"></li>
-            <li><img src="" alt="Discord"></li>
-            <li><img src="" alt="Reddit"></li>
-            <li><img src="" alt="Insta"></li>
-            <li><img src="" alt="LinkedIn"></li>
+            <li><i class="fa-brands fa-github"></i></li>
+            <li><i class="fa-brands fa-discord"></i></li>
+            <li><i class="fa-brands fa-reddit-alien"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+            <li><i class="fa-brands fa-linkedin"></i></li>
           </ul>
+        </div>
       </div>
       <div class="right-column">
-        <h1 id="right-heading">Projects</h1>
-        <div class="project" onclick="changeSite('./sites/sudokusolver.html')">
-          <h2>Sudoku Solver</h2>
-          <p>Description of Project 2</p>
-          <div class="tech-container">
-            <button class="tech-label">Python</button>
+        <div class="projects">
+          <h1 id="right-heading">Projects</h1>
+          <div class="project" onclick="changeSite('./sites/sudokusolver.html')">
+            <h2>Sudoku Solver</h2>
+            <p>Description of Project 1</p>
+            <div class="tech-container">
+              <button class="tech-label">Python</button>
+            </div>
           </div>
+          <div class="project" onclick="changeSite('./sites/tamagochi.html')">
+            <h2>Tamagochi</h2>
+            <p>Description of Project 2</p>
+            <div class="tech-container">
+              <button class="tech-label">Java</button>
+            </div>
+          </div>
+          <div class="project" onclick="changeSite('./sites/password_generator.html')">
+            <h2>Password Generator</h2>
+            <p>Description of Project 3</p>
+            <div class="tech-container">
+              <button class="tech-label">HTML</button>
+              <button class="tech-label">CSS</button>
+              <button class="tech-label">JavaScript</button>
+            </div>
+          </div>
+          <a id="project-link" href="./sites/projects.html">See All projects</a>
         </div>
-        <div class="project" onclick="changeSite('./sites/tamagochi.html')">
-          <h2>Tamagochi</h2>
-          <p>Description of Project 2</p>
+
+        <div class="career">
+          <h1>Career Stations</h1>
+          <h3>2023 - Current: Trainee Full Stack Developer @ Otto</h3>
+          <p>This is a placerholder text</p>
         </div>
-        <div class="project" onclick="changeSite('./sites/password_generator.html')">
-          <h2>Password Generator</h2>
-          <p>Description of Project 1</p>
-        </div>
-        <a id="project-link" href="./sites/projects.html">See All projects</a>
       </div>
     </div>
   </div>
