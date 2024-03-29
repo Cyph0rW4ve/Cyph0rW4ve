@@ -100,12 +100,10 @@ body, html {
 
   .project:hover {
     cursor: pointer;
-  }
-
-  .project:hover {
     border: 1px solid white;
     background: #263A69;
   }
+
 
   .tech-container {
     display: flexbox;
@@ -136,3 +134,7 @@ body, html {
       width: 100%;
     }
   }
+
+a{
+  color: white;
+}
