@@ -1,3 +1,6 @@
+
+/* General Settings */
+
 body, html {
     margin: 0;
     padding: 0;
@@ -5,6 +8,94 @@ body, html {
     height: 100%;
     background-color: #141d33;
     font-family: "Sulphur Point", sans-serif;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+}
+
+a{
+  color: white;
+}
+
+
+
+
+
+
+/* Top Layout */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+  position: relative;
+}
+
+.columns-container {
+  width: 1088px;
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+  height: 100%;
+  position: relative;
+}
+
+
+
+
+
+
+/* Left Column */
+
+  
+  .left-column {
+    width: 528px;
+    padding: 0px 40px 0 0;
+    background-color: #f2f2f200;
+    top: 0;
+    min-height: 100vh;
+    box-sizing: border-box;
+  }
+
+
+
+
+
+
+/* Left Top */
+
+
+  .left-main{
+    position: fixed;
+    max-width: 480px;
+  }
+  
+  #left-heading {
+    margin-top: 100px;
+    font-size: 54px;
+  }
+
+
+
+
+
+/* Left Bottom */
+
+  .left-footer{
+    position: fixed;
+    padding: 0 20px;
+    bottom: 200px;
+  }
+
+  .social-list {
+    margin-top: 10px;
+    padding: 0;
+  }
+
+  .social-list li {
+    display: inline-block;
+    
   }
 
   img{
@@ -17,57 +108,13 @@ body, html {
     margin: 0 5px;
   }
 
-  
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 150%;
-    position: relative;
-  }
-  
-  .columns-container {
-    width: 1088px;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    height: 100%;
-    position: relative;
-  }
-  
-  .left-column {
-    width: 528px; /* One third of parent's width */
-    padding: 0px 40px 0 0;
-    background-color: #f2f2f200;
-    position: sticky;
-    top: 0;
-    height: 100vh; /* Ensuring the left column takes full height */
-    box-sizing: border-box;
-  }
-  
-  #left-heading {
-    margin-top: 100px;
-    font-size: 54px;
-  }
-
-
-  .left-footer{
-    position: fixed;
-    padding: 0 20px;
-    bottom: 100px;
-  }
 
 
 
-  .social-list {
-    margin-top: 10px;
-    padding: 0;
-  }
 
-  .social-list li {
-    display: inline-block;
-    
-  }
 
+
+/* Right Coloumn */
   
   .right-column {
     padding: 0px 0px 0px 40px;
@@ -78,22 +125,27 @@ body, html {
     top: 0;
   }
 
+
+
+
+
+
+
+/* Projects */
+
   .projects{
-    margin: 100px 0;
+    margin: 100px 0 200px 0;
   }
 
-
-
   #right-heading{
-    margin-top: 100px;
-    padding: 0 0 0 20px;
+    margin: 100px 0 21px 20px;
   }
   
   .project {
     margin-bottom: 20px;
-    padding: 0 0 20px 20px;
+    padding: 0 20px 20px 20px;
     border: 1px solid #FFFFFF00;
-    border-radius: 5px;
+    border-radius: 10px;
     overflow: hiddden;
     transition: background 0.5s ease;
   }
@@ -104,7 +156,6 @@ body, html {
     background: #263A69;
   }
 
-
   .tech-container {
     display: flexbox;
   }
@@ -112,34 +163,116 @@ body, html {
   .tech-label {
     border-radius: 50px;
     padding: 0 15px 0 15px;
+    margin-bottom: 5px;
     height: 30px;
-    color: rgb(0, 247, 255);
-    background-color: rgb(5, 102, 105);
-    border: none;
+    color: #65ffed;
+    background-color: #122b39;
+    border: 1px solid #65ffed1e;
   }
 
   #project-link {
-    padding: 0 0 0 20px;
-  }
-  
-  /* Responsive layout */
-  @media only screen and (max-width: 768px) {
-    .container {
-      align-items: flex-start;
-    }
-    .columns-container {
-      flex-direction: column;
-    }
-    .left-column, .right-column {
-      width: 100%;
-    }
+    padding: 0 0 0 70px;
+    margin: 70px 0;
+    color:#65ffed;
+    cursor: pointer;
   }
 
-a{
-  color: white;
+
+
+
+
+
+
+/* Career Section */
+
+
+.career{
+  margin: 0 0 100px 0;
+}
+
+#station-heading{
+  margin: 20px;
+}
+
+.station{
+  margin: 0 0 20px 0;
+  padding: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  overflow: hiddden;
+  cursor: pointer;
+}
+
+.duration{
+  margin: 0;
+  font-style: italic;
+  color: #65ffed
+}
+
+.job{
+  margin: 0 0 10px 0;
 }
 
 
-.station{
-  margin: 0 0 0 20px;
+
+
+
+
+
+/* Responsive Design */
+
+
+
+@media screen and (max-width: 1200px) {
+
+
+/* General Layout */
+
+  .columns-container {
+    flex-direction: column;
+    width: 70vw;
+    min-width: 400px;
+    display: flex;
+    height: 100%;
+    position: relative;
+  }
+
+  .left-column, .right-column {
+    width: 100%;
+    padding: 0;
+  }
+
+
+
+
+
+
+/* Left side */
+
+  .left-main{
+    margin: 0 0 200px 0;
+    position: relative;
+  }
+
+  .left-footer{
+    position: static;
+    padding: 0;
+  }
+
+
+
+
+  
+
+
+/* Right side */
+
+  .projects{
+    margin: 100px auto;
+  }
+
+  .project{
+    border: 1px solid white;
+  }
+
 }
