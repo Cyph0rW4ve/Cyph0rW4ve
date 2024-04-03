@@ -1,9 +1,16 @@
+
+/* General Settings */
+
 body{
     background-color: #192441;
     margin: 0;
     color: white;
     font-family: "Sulphur Point", sans-serif;
 }
+
+::-webkit-scrollbar {
+    display: none;
+  }
 
 .container{
     margin: 0 auto;
@@ -13,14 +20,69 @@ body{
     justify-content: center;
     box-shadow: 0 0 100px black;
     box-sizing: border-box;
-    padding: 150px 80px;
+    padding: 100px 80px;
 }
+
+
+
+
+
+
+
+
+/* Header */
 
 h1{
     font-size: 54px;
     margin: 0;
     text-decoration: underline;
 }
+
+#tech-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: 20px 0 150px 0;
+}
+
+h2{
+    margin: 0;
+}
+
+.tech-container{
+    margin: 0 20px;;
+}
+
+.tech-label {
+    border-radius: 50px;
+    padding: 0 15px 0 15px;
+    height: 30px;
+    color: #65ffed;
+    background-color: #122b39;
+    border: 1px solid #65ffed1e;
+    margin-bottom: 5px;
+}
+
+#return{
+    color: white;
+    position: fixed;
+    top: 160px;
+    left: calc(100vw / 2 - 750px);
+  }
+
+  #return:hover{
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+/* Main Part */
+
 
 .text{
     border: 1px solid grey;
@@ -33,41 +95,69 @@ h1{
 
 }
 
-#tech-wrapper{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    margin: 20px 0 150px 0;
 
+.image-flexbox{
+margin: 0 auto;
+display: flex;
+justify-content: space-around;
+}
+
+
+
+
+
+
+
+/* Responsive Design */
+
+@media screen and (max-width: 1540px) {
+
+#return{
+    top: 150px;
+    position: relative;
+    left: calc(100vw / 2 + 300px);
+}
+
+.container{
+        margin: -50px auto 0 auto;
+}
+
+}
+
+
+
+@media screen and (max-width: 1200px) {
+
+body{
+    background-color: #1d2742;
+}
+
+#return{
+    display: none;
+    }
+
+    .container{
+    margin: 0 auto;
+    width: 85%;
+    max-width: 900px;
+    box-shadow: none;
+    padding: 100px 0;
+}
+
+
+.text{
+    width: 100%;
+}
+
+#tech-wrapper{
+    flex-direction: column;
 }
 
 .tech-container{
-    margin: 0 20px;;
+    margin: 10px 0 0 0;
+}
+    
+
 }
 
 
-.tech-label {
-    border-radius: 50px;
-    padding: 0 15px 0 15px;
-    height: 30px;
-    color: #65ffed;
-    background-color: #122b39;
-    border: 1px solid #65ffed1e;
-  }
-
-
-h2{
-    margin: 0;
-}
-
-
-#return{
-    color: white;
-    position: fixed;
-    top: 160px;
-    left: calc(100vw / 2 - 750px);
-  }
-
-  #return:hover{
-    cursor: pointer;
-  }
