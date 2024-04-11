@@ -230,7 +230,7 @@ a{
 
   .columns-container {
     flex-direction: column;
-    width: 70vw;
+    width: 70%;
     min-width: 400px;
     display: flex;
     height: 100%;
