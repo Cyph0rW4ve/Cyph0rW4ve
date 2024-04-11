@@ -110,7 +110,7 @@ justify-content: space-around;
 
 /* Responsive Design */
 
-@media screen and (max-width: 1540px) {
+@media (max-width: 1540px) {
 
 #return{
     top: 150px;
@@ -126,7 +126,7 @@ justify-content: space-around;
 
 
 
-@media screen and (max-width: 1200px) {
+@media (max-width: 1200px) {
 
 body{
     background-color: #1d2742;

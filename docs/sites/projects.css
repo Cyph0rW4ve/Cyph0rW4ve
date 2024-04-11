@@ -120,7 +120,7 @@ h1{
   /* Responsive Design */
 
 
-  @media screen and (max-width: 1540px) {
+  @media (max-width: 1540px) {
 
 
     /* General Layout */
@@ -137,7 +137,7 @@ h1{
   }
 
 
-  @media screen and (max-width: 1200px) {
+  @media (max-width: 1200px) {
 
 
         /* General Layout */
@@ -175,7 +175,7 @@ h1{
 }
 
 
-@media screen and (max-width: 510px) {
+@media (max-width: 510px) {
 
 
   /* Project Layout */
