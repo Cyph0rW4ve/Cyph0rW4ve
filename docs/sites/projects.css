@@ -174,7 +174,7 @@ h1{
   }
 
   .preview{
-    max-width: 39%;
-    max-height: 140px;
+    max-width: 50px;
+    max-height: 50px;
   }
 }
