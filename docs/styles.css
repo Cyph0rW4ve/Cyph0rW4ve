@@ -84,8 +84,8 @@ a{
 
   .left-footer{
     position: fixed;
-    padding: 0 20px;
-    bottom: 200px;
+    padding: 0 20px 0 0;
+    top: 1000px;
   }
 
   .social-list {
@@ -257,6 +257,7 @@ a{
   .left-footer{
     position: static;
     padding: 0;
+    margin: -100px 0 50px 0;
   }
 
 
