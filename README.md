@@ -57,6 +57,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=white)](https://docs.oracle.com/javase/tutorial/java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
@@ -66,14 +67,13 @@
 ![Currently Working With](./src/ReadmeImages/CurrentWork.png)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 
 &nbsp;
 
 ![Learning](./src/ReadmeImages/Learning.png)
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
@@ -92,13 +92,4 @@
 
 
 &nbsp;
-
-![Activity](./src/ReadmeImages/Activity.png)
----
-
-<!--- Streak, Stats. Most Used Languages, Awards --->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CaptainKorsika&theme=shadow-purple&border_radius=5&mode=weekly&hide_border=true&currStreakNum=61c4c6&fire=e13cba&sideNums=61c4c6&currStreakLabel=e13cba&sideLabels=e13cba&dates=61c4c6)&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-nu-ten-19.vercel.app/api/top-langs/?username=CaptainKorsika&layout=compact&hide_border=true&bg_color=00000000&text_color=61c4c6&title_color=e13cba&icon_color=000000&exclude_repo=github-readme-streak-stats)
-
-![Sebastian's GitHub stats](https://github-readme-stats-nu-ten-19.vercel.app/api?username=CaptainKorsika&hide_title=true&title_color=570182&bg_color=81018200&icon_color=e13cba&theme=radical&border_color=57018200&text_color=61c4c6&show_icons=true&theme=radical)
+GitHub stats](https://github-readme-stats-nu-ten-19.vercel.app/api?username=Cyph0rW4ve&hide_title=true&title_color=570182&bg_color=81018200&icon_color=e13cba&theme=radical&border_color=57018200&text_color=61c4c6&show_icons=true&theme=radical)
