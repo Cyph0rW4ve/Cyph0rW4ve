@@ -5,7 +5,7 @@
 
 ![alt Future City](./src/ReadmeImages/futureCity.png)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainKorsika)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyph0rW4ve)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/CaptainKorsika)&nbsp;&nbsp;
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-78-%23red?style=flat-square&logo=adventofcode&labelColor=61c4c6&color=b01e7e)&nbsp;&nbsp;
 
@@ -35,7 +35,7 @@
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c3v8qXvcxN)
-[![Rediit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Cpt_Korsika)
+[![Rediit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Cyph0rW4ve)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/basti.jw/)
 <!--- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  --->
 
@@ -84,7 +84,7 @@
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
 [![CI/CD](https://img.shields.io/badge/ci/cd-%235835CC.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=darkgreen)](https://docs.github.com/en/actions)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html)
-[![NuxtJS](https://img.shields.io/badge/NuxtJS-6DB33F?style=for-the-badge&logo=nuxt&logoColor=white&color=brown)](https://docs.spring.io/spring-framework/reference/index.html)
+[![NuxtJS](https://img.shields.io/badge/NuxtJS-6DB33F?style=for-the-badge&logo=nuxt&logoColor=white&color=brown)](https://nuxt.com/docs/getting-started/introduction)
 
 &nbsp;
 
