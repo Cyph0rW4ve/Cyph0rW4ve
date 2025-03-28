@@ -55,11 +55,15 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=white)](https://docs.oracle.com/javase/tutorial/java/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=darkred)](https://docs.oracle.com/javase/tutorial/java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+
+[![Svelte](https://img.shields.io/badge/Svelte-121011?style=for-the-badge&logo=svelte&logoColor=orange&color=white)](https://svelte.dev/docs)
+
+
 
 &nbsp;
 
@@ -68,15 +72,19 @@
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&color=purple)](https://kotlinlang.org/docs/home.html)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+[![CI/CD](https://img.shields.io/badge/ci/cd-%235835CC.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=darkgreen)](https://docs.github.com/en/actions)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=mediumseagreen)](https://www.python.org/doc/)
 
 &nbsp;
 
 ![Learning](./src/ReadmeImages/Learning.png)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://docs.godotengine.org/en/stable/index.html)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+[![CI/CD](https://img.shields.io/badge/ci/cd-%235835CC.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=darkgreen)](https://docs.github.com/en/actions)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html)
+[![NuxtJS](https://img.shields.io/badge/NuxtJS-6DB33F?style=for-the-badge&logo=nuxt&logoColor=white&color=brown)](https://docs.spring.io/spring-framework/reference/index.html)
 
 &nbsp;
 
@@ -88,8 +96,4 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-doc.org/)
 [![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/)
 
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/reference/index.html)
 
-
-&nbsp;
-GitHub stats](https://github-readme-stats-nu-ten-19.vercel.app/api?username=Cyph0rW4ve&hide_title=true&title_color=570182&bg_color=81018200&icon_color=e13cba&theme=radical&border_color=57018200&text_color=61c4c6&show_icons=true&theme=radical)
