@@ -5,11 +5,12 @@
 
 ![alt Future City](./src/ReadmeImages/futureCity.png)
 &nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=cyph0rw4ve&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![About Me](./src/ReadmeImages/AboutMe.png)
 ---
 
-I'm a passionate developer with a love for building things no matter if it's web apps, tools, or small games. 
+I'm a passionate developer with a love for building things no matter if it's web apps, tools, or small games.
 I enjoy diving deep into tech, learning how systems work, and pushing my skills with some cool projects.
 
 Some things I’m especially into:
@@ -39,7 +40,7 @@ Outside of tech, you’ll find me gaming, playing guitar, enjoying concerts, and
 ![Technologies](./src/ReadmeImages/Technologies.png)
 ---
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -72,3 +73,8 @@ Outside of tech, you’ll find me gaming, playing guitar, enjoying concerts, and
 [![Nginx](https://img.shields.io/badge/nginx-CC342D?style=for-the-badge&logo=nginx&logoColor=white&color=darkgreen)](https://nginx.org/en/docs/)
 [![Rust](https://img.shields.io/badge/rust-CC342D?style=for-the-badge&logo=rust&logoColor=white&color=orange)](https://www.rust-lang.org/learn)
 
+---
+&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyph0rw4ve&theme=radical&title_color=910091&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyph0rw4ve&theme=radical&show_icons=true&title_color=910091)](https://github.com/anuraghazra/github-readme-stats)
